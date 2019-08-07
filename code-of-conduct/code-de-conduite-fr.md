@@ -1,21 +1,17 @@
-# Code de Conduite de PrestaShop
+# Code de Conduite de Friends of Presta
 
 Version française 
  
 ## Objet 
 
-Ce Code de conduite a pour objet de décrire les attentes  pour participer au projet open-source PrestaShop (ci-après le “Projet”), ainsi que les étapes pour signaler des comportements ou situations inacceptables. 
+Ce Code de conduite a pour objet de décrire les attentes  pour participer au projet open-source Friends of Presta (ci-après le “Projet”), ainsi que les étapes pour signaler des comportements ou situations inacceptables. 
 
 Le Code de conduite vise à créer une communauté positive, bienveillante et coopérative pour tous, que vous soyez débutants ou experts, que vous posiez des questions ou que vous cherchiez à partager votre savoir. 
 
 
 ## Champ d’application 
 
-Ce Code de conduite s’applique à toutes les personnes contribuant au Projet, notamment par des contributions en lignes, qu’il s’agisse de repositories, des posts sur le forum PrestaShop, ou sur les réseaux sociaux. 
-
-Il s’applique également dans les espaces publics, durant les évènements PrestaShop, notamment les PSD, PS Connect, meet-up ou tout autre évènement durant lequel un individu ou un groupe d’individu représente le Projet. 
-
-Le Code de conduite s’applique à toute personne membre de la communauté PrestaShop, qu’il s’agisse par exemple d’employés PrestaShop, de partenaires, d’ambassadeurs, de modérateurs ou de tout autre membre présent sur les sites contributifs et réseaux sociaux PrestaShop. 
+Ce Code de conduite s’applique à toutes les personnes contribuant au Slack "Friends of Presta" et/ou à l'organisation GitHub "Friends of Presta", notamment par des contributions en ligne, qu’il s’agisse de création/mise à jour de dépôts, des posts et/ou tickets.  
 
 ## Comportements attendus 
 
@@ -50,8 +46,7 @@ Si vous pensez qu’un comportement inacceptable vous vise, ou vise d’autre(s)
 
 - Le signalez grâce aux fonctions “report content” prévues sur les sites contributifs ; 
 - Expliquez directement à la personne concernée comment son comportement vous affecte, ou affecte les autres ; 
-- Dans le cas d’un évènement en ligne, vous pouvez signaler un abus à cette adresse: [https://www.prestashop.com/fr/signaler-contenu-illicite](https://www.prestashop.com/fr/signaler-contenu-illicite) ;
-- Dans le cas d’un événement physique, vous pouvez vous adresser directement à un membre de l’organisation ou à un agent de sécurité.
+- Dans le cas d’un évènement en ligne, vous pouvez signaler un abus à cette adresse: (prévoir un email pour cela?);
 
 Dans ces derniers cas, le signalement doit contenir les informations suivantes : 
 
@@ -78,7 +73,7 @@ En cas de participation à un évènement, un organisateur s’adressera directe
 
 En cas de comportement réitéré, les organisateurs se réservent le droit d’exclure un participant. 
 
-Si vous avez des doutes sur la façon dont un modérateur ou un organisateur a géré la situation, vous pouvez contacter PrestaShop directement via [ce formulaire](https://www.prestashop.com/fr/signaler-contenu-illicite). 
+Si vous avez des doutes sur la façon dont un modérateur ou un organisateur a géré la situation, vous pouvez contacter Friends of Presta directement via cet email. 
 
 NB : les spams ne sont pas constructifs et polluent les sites contributifs. Ces contributions ne sont pas les bienvenues et les comptes associés seront immédiatement bannis. 
 
