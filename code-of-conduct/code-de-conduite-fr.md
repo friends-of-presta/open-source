@@ -46,7 +46,7 @@ Si vous pensez qu’un comportement inacceptable vous vise, ou vise d’autre(s)
 
 - Le signalez grâce aux fonctions “report content” prévues sur les sites contributifs ; 
 - Expliquez directement à la personne concernée comment son comportement vous affecte, ou affecte les autres ; 
-- Dans le cas d’un évènement en ligne, vous pouvez signaler un abus à cette adresse: (prévoir un email pour cela?);
+- Dans le cas d’un évènement en ligne, vous pouvez signaler un abus auprès d'un administrateur du Slack;
 
 Dans ces derniers cas, le signalement doit contenir les informations suivantes : 
 
@@ -73,7 +73,7 @@ En cas de participation à un évènement, un organisateur s’adressera directe
 
 En cas de comportement réitéré, les organisateurs se réservent le droit d’exclure un participant. 
 
-Si vous avez des doutes sur la façon dont un modérateur ou un organisateur a géré la situation, vous pouvez contacter Friends of Presta directement via cet email. 
+Si vous avez des doutes sur la façon dont un modérateur a géré la situation, vous pouvez prendre contact avec n'importe quel membre de l'équipe d'administration en vous signalant sur le Slack. 
 
 NB : les spams ne sont pas constructifs et polluent les sites contributifs. Ces contributions ne sont pas les bienvenues et les comptes associés seront immédiatement bannis. 
 
