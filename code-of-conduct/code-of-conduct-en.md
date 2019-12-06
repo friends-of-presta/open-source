@@ -25,7 +25,7 @@ The Code of conduct aiming to create a positive and benevolent community, the fo
 - Be respectful, courteous and polite. It is essential that community members show respect for each other, even when there are different opinions.  The community welcomes any person, of different backgrounds and identities, interested in the Project and wishing to participate in its development;
 - If someone points out that your behaviour is making others uncomfortable, stop doing it. Sometimes, people unconsciously say things that negatively affect others. Even if it wasn’t your intent, apologize. When you share feedback, avoid sarcasm and jokes. Be open to receiving constructive feedback;
 - You are requested to ensure that any interaction you have within the community remains lawful. Share content that you own or that you have the right to share and please do not share any sensitive information, content that you do not own, etc;
-- You are requested to stay within the framework of the Project during a discussion with other members of the community. Except for the case where a module can resolve a problem encountered in the use of PrestaShop solution, or event sponsorship, spam or advertising messages are not welcome. 
+- You are requested to stay within the framework of the Project during a discussion with other members of the community. Except for the case where a module can resolve a problem encountered in the use of PrestaShop solution, or event sponsorship, spam or advertising messages are not welcome except on dedicated channels. 
 
 This list is not exhaustive or comprehensive. We expect the code to be followed in spirit as much as in the letter. 
 
