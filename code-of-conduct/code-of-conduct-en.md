@@ -1,86 +1,128 @@
-# PrestaShop Code of Conduct
+# Friends of Presta Code of Conduct
 
-English version 
+English Version
 
-## Purpose 
+## Purpose
 
-This Code of Conduct outlines the expectation for participation in PrestaShop open source project (the “Project”) as well as steps for reporting unacceptable behaviour. 
+The purpose of this Code of Conduct is to outline the expectations for participating in the open-source project Friends of Presta (hereafter referred to as the "Project"), as well as the steps to report unacceptable behaviors or situations.
 
-The Code of Conduct aims to provide a positive, inspiring and welcoming community, whether you are a beginner or an expert, asking questions or seeking to share your knowledge. 
+The Code of Conduct aims to create a positive, caring, and cooperative community for everyone, whether you are beginners or experts, whether you are asking questions or seeking to share your knowledge.
 
-## Scope of application
+## Scope
 
-This Code of Conduct applies to all people contributing to the Project, namely by online contributions, whether it is repositories, forum posts or on social media. 
+This Code of Conduct applies to all individuals contributing to the Slack "Friends of Presta" and/or the GitHub organization "Friends of Presta," including online contributions, whether creating/updating repositories, posts, and/or tickets.
 
-It also applies to public spaces, during PrestaShop event, namely the PSD, PS Connect, meet-up or any other event during which an individual or a group of individuals represent the Project. 
+## Expected Behaviors
 
-The Code of Conduct applies to any member of the PrestaShop community, whether it is PrestaShop employees, partners, ambassadors, moderators or any other members on the contributory sites and PrestaShop social media. 
+The Code of Conduct, aiming to create a positive and caring community, requires the following principles to be respected to foster constructive and respectful exchanges:
 
-## Expected behaviours 
+- If you wish to help others, be patient and kind. Participating in our community can be challenging, especially for new members. Encourage newcomers as they learn.
+- If seeking help, make it easy for members to assist you. The success of our community is possible thanks to all its volunteers. Don't worry if other members or moderators edit and/or rephrase your question; they are trying to make it understandable and interesting for a broader audience.
+- Be respectful, courteous, and polite. It is essential for community members to show respect, even in the presence of differing opinions. The community accepts and welcomes anyone, from any background and identity, interested in the Project and willing to contribute to its development.
+- If someone points out that your behavior makes others uncomfortable, stop it. Sometimes we inadvertently say things that negatively affect others. Even if it was not your intention, apologize. When giving feedback, avoid sarcasm and jokes. Also, be open to receiving constructive feedback.
+- It is required that all interactions within the community remain lawful. Only share content you own or have the right to share; do not share sensitive information, etc.
+- Keep discussions with other community members within the Project framework. Except for cases where a module can solve an issue encountered in using the Prestashop solution or event sponsorship, spams or advertising messages are not welcome except in dedicated channels.
 
-The Code of conduct aiming to create a positive and benevolent community, the following principles must be ensured in order to have constructive and respectful exchanges : 
+This list is not exhaustive. We expect this Code to be followed both in spirit and in letter.
 
-- If you want to help others, be patient and benevolent. It may be difficult to learn to participate in our community, especially for new members. Be supportive while they learn;
- - If you need help, make it easy for other members to help you. The community is made possible thanks to all its volunteers. Don’t worry if other members or moderators suggest changes, edit or reformulate your question: they try to make your question understandable and interesting to as many people as possible;
-- Be respectful, courteous and polite. It is essential that community members show respect for each other, even when there are different opinions.  The community welcomes any person, of different backgrounds and identities, interested in the Project and wishing to participate in its development;
-- If someone points out that your behaviour is making others uncomfortable, stop doing it. Sometimes, people unconsciously say things that negatively affect others. Even if it wasn’t your intent, apologize. When you share feedback, avoid sarcasm and jokes. Be open to receiving constructive feedback;
-- You are requested to ensure that any interaction you have within the community remains lawful. Share content that you own or that you have the right to share and please do not share any sensitive information, content that you do not own, etc;
-- You are requested to stay within the framework of the Project during a discussion with other members of the community. Except for the case where a module can resolve a problem encountered in the use of PrestaShop solution, or event sponsorship, spam or advertising messages are not welcome except on dedicated channels. 
+## Prohibited Behaviors
 
-This list is not exhaustive or comprehensive. We expect the code to be followed in spirit as much as in the letter. 
+Certain behaviors are considered unacceptable and violate this Code of Conduct. These include:
 
-## Unacceptable behaviours
+- Infringements on the rights of others, including the right to privacy, intellectual property rights (such as copyright, trademark rights, patents, etc.), trade secrets, personal violations, etc.
+- Rudeness and mockery.
+- Insults, discrimination, or personal attacks. This includes insults or offenses related to origins, nationality, political opinions, religion, sexual orientation, identity, age, culture, ethnicity, language, profession, belonging to a minority, physical or mental abilities.
+- Harassment, especially moral or sexual.
+- Verbal or physical violence, intimidation, threats, etc. This includes subtle "belittling" messages or unwelcoming language. Regardless of intent, this behavior can be negatively received by other members.
 
-Certain behaviours are considered unacceptable and constitute a violation of this Code of Conduct, including:
+The Code of Conduct is not intended to exhaustively detail all forms of prohibited behavior, harassment, or violence, and it is not sought to rank said behaviors or consider some not worth sanctioning.
 
-- Violation of rights, in particular, right to privacy, intellectual property rights (as copyright, trademark, patent law etc.), trade secrets, personal injury etc;
-- Rudeness and mockery;
-- Insults, discriminations or personal attacks. This includes any language likely to offend or alienate people based on race, gender identity or expression, language, sexual orientation, disability, nationality, age, profession, physical appearance, religion, minority background;
-- Sexual or mental harassment;
-- Verbal or physical violence, threats, intimidation, bullying etc. This includes subtle put-downs message or unwelcoming language. Regardless of intent, this behaviour can have a negative impact on others;
+When a project member feels harassed or is in an uncomfortable situation, they are asked to report it in accordance with the procedure outlined below. This will then be examined.
 
-This Code of Conduct is not intended to be exhaustive or to detail all forms of unacceptable behaviours. It is not designed to rank the behaviours or to consider that some behaviours do not deserve to be punished. 
+## Reporting Abuse
 
-If a member feels harassed or in an uncomfortable situation, they will be asked to report the situation according to the procedure described hereafter. It will, then, be examined. 
+If you believe that unacceptable behavior targets you or other community members, you can:
 
-## Reporting issues
+- Report it using the "report content" functions provided on the contributory sites.
+- Explain directly to the person concerned how their behavior affects you or others.
+- In the case of an online event, you can report abuse to a Slack administrator.
 
-If you experience or witness misconduct, you may: 
+In the latter cases, the report must contain the following information:
 
-- Flag it thanks to the “report content” button on the contributory sites; 
-- Address it directly, and let the person know how this behaviour affects you or others;
-- If the situation is an online event, you may flag the content to the following address: [https://www.prestashop.com/en/abuse](https://www.prestashop.com/en/abus);
-- If the situation happens during a physical event, you may address it directly to a member of the organization or a security officer. 
-
-Your report must include the following details: 
-
-- Your contact information, so that we can reach you. Anonymous report cannot be treated; 
-- Your name and the name of the person or the people involved;
-- A description of what occurred, and if you believe the situation is ongoing; don’t forget to provide the link of the webpage or the discussion; 
+- Your contact information so that you can be contacted. Anonymous reports cannot be processed.
+- Your name and the names of the individuals involved.
+- A description of what you think happened, and if you think the situation persists, do not forget to provide a link to the discussion or web page in question.
 - Any additional information that may be helpful.
 
-After filing a report, the most adapted person will handle the situation in order to check it. This person may ask you additional questions and will determine, with you, how to respond and handle the situation. 
+After reporting abuse, the most suitable person will take charge of the situation to verify it. This person may ask you additional questions if necessary, and together you can determine how to respond and manage the situation.
 
-If the person harassing you is a moderator, they will be asked to recuse themselves. If the report is filed by a moderator, another moderator will handle the situation. 
+If the person bothering you is a moderator, they will be asked to recuse themselves. If the complaint comes from a moderator, another moderator will handle the complaint.
 
-## Sanction 
+## Use of the "Friends Of Presta" Association's Slack
 
-Each situation will be handled on a case-by-case basis. 
+### Introduction
 
-In the event of a non-compliance with the principles in the Code of Conduct, the warning procedure shall be initiated:
+The Slack "https://friends-of-presta.slack.com" is a professional communication space intended for members of the "Friends Of Presta" Association. It aims to facilitate exchanges, collaboration, and knowledge sharing around the PrestaShop platform. By using this Slack, you agree to comply with the rules outlined below.
 
-- On the first occurrence, the moderator will send a public or private warning, and the content may be modified or deleted;
-- According to the situation, the account of the person may be temporarily suspended;
-- For certain cases, such as extreme behaviours that affect the community, threats, acts of violence, a ban of the community may be applied as well as a prohibition to participate in an event;
-- In case of participation in an event, a member of the organization will contact the alleged perpetrator directly to explain the facts alleged and to inform him of the actions that may be taken against him;
-- In the event of repetitive behaviours, the member of the organization reserves the right to exclude a participant. 
+### Respect
 
-If you have any doubts about how the situation has been handled, you can contact PrestaShop via this [contact form](https://www.prestashop.com/en/abuse). 
+- **Mutual Respect:** All members must show respect, courtesy, and professionalism towards other participants. Discriminatory, offensive, or harassing behaviors will not be tolerated.
+- **Appropriate Language:** Use appropriate language and avoid offensive, vulgar, or disrespectful remarks.
 
-NB: spams are not constructive and pollute the contributory sites. These contributions are not welcomed and any associated account will be banned immediately. 
+### Content and Contributions
 
-The Code of Conduct is intended to apply equally to each member of the community, regardless of its involvement or role in the Project. 
+- **Relevance:** Post content related to PrestaShop and its related domains.
+- **Copyright:** Respect copyrights and cite your sources when sharing content from other sources.
+- **Advertising and Promotion:** Avoid excessive promotion of products or services unrelated to the purpose of the association.
+
+### Commercial Communication
+
+- **Prohibition of Commercial Communication:** Members are not allowed to post for advertising or promoting products or services not related to the purpose of the association. Any unauthorized commercial message will be removed.
+
+### Confidentiality
+
+- **Data Confidentiality:** Do not share confidential or sensitive information without express permission.
+- **Respect for Privacy:** Respect the privacy of other members and do not share personal information without their consent.
+
+### Responsible Use
+
+- **Reasonable Use:** Use this Slack responsibly and avoid disruptive or abusive behavior.
+- **Security:** Report any suspicious behavior or potentially dangerous activity to the Slack administrator.
+
+### Members' Profiles
+
+- **Introduction:** New members must introduce themselves in the #general channel by indicating their name, surname, region, place of work, and their specific skills in PrestaShop.
+- **Username:** Members must use a pseudonym including their name, surname, agency, and location (e.g., "FirstNameLastName-Agency-Location").
+
+### Administration
+
+- **Moderation:** Administrators reserve the right to moderate content and take appropriate measures in case of rule violations.
+- **Rule Modification:** This regulation may be updated periodically. Members will be informed of changes.
+
+By using this Slack, you agree to comply with these rules. Failure to comply with these rules may result in disciplinary measures, including exclusion from Slack.
+
+Thank you for your understanding and cooperation in making this space a collaborative and enriching place for all members of the "Friends Of Presta" Association.
+
+## Sanctions
+
+Each situation will be handled on a case-by-case basis by the responsible individuals.
+
+In case of non-compliance with the principles of this Code of Conduct, the following warning procedure may apply:
+
+- Upon the first report, the moderator will send a warning, which may be public or private, to the person concerned, and the content in question may be removed or modified.
+- Depending on the cases, the person's account may be temporarily suspended.
+- For certain cases, such as extreme behavior disrupting the community, threats, violence, a ban from the community may be applied, along with a prohibition from participating in an event.
+
+In case of participation in an event, an organizer will directly address the alleged author to explain the facts alleged against them and inform them of the actions that may be taken against them.
+
+In case of repeated behavior, organizers reserve the right to exclude a participant.
+
+If you have any doubts about how a moderator handled the situation, you can contact any member of the administration team by signaling yourself on Slack.
+
+NB: Spam is not constructive and pollutes contributory sites. Such contributions are unwelcome, and associated accounts will be immediately banned.
+
+The code of conduct is intended to apply equally to each member of the community; regardless of their commitment or role in the Project.
 
 <hr />
 
-This code of conduct is based on the [template](https://github.com/todogroup/opencodeofconduct/blob/gh-pages/codeofconduct_redo.md) established by the [TODO Group](http://todogroup.org/) and used by numerous other large communities (e.g., [Yahoo](https://yahoo.github.io/codeofconduct), [GitHub](http://todogroup.org/opencodeofconduct/#opensource@github.com)), and is influenced by other large online communities like [Stackoverflow](https://stackoverflow.com/conduct). Like the template, this text is shared under the [CC-BY-4.0 license](https://creativecommons.org/licenses/by/4.0/).
+This code of conduct is based on the [template](https://github.com/todogroup/opencodeofconduct/blob/gh-pages/codeofconduct_redo.md) established by the [TODO Group](http://todogroup.org/), used by numerous other large communities (e.g., [Yahoo](https://yahoo.github.io/codeofconduct), [GitHub](http://todogroup.org/opencodeofconduct/#opensource@github.com)), and is influenced by other large online communities like [Stack Overflow](https://stackoverflow.com/conduct). Like the template, this text is shared under the [CC-BY-4.0 license](https://creativecommons.org/licenses/by/4.0/).
